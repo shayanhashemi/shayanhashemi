@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on python & node.js<br>💬 Ask me about Every thing you want<br>📫 How to reach me: " shayteck@imfo.com "
+🔭 I’m currently working on python & node.js<br>💬 Ask me about Every thing you want<br>📫 How to reach me: " shayteck@info.com "
 
 
 ## 🌐 Socials:
